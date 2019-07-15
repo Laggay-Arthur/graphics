@@ -1,0 +1,68 @@
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\tao_test.exe.config
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\tao_test.exe
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\tao_test.pdb
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.FreeGlut.dll
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.OpenGl.dll
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.dll
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.FreeGlut.xml
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.OpenGl.xml
+E:\Загрузки из Интернета\решения\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.xml
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.Form1.resources
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.csproj.CopyComplete
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.exe
+E:\Загрузки из Интернета\решения\tao_test\tao_test\obj\Debug\tao_test.pdb
+D:\tao_test\tao_test\bin\Debug\tao_test.exe.config
+D:\tao_test\tao_test\bin\Debug\tao_test.exe
+D:\tao_test\tao_test\bin\Debug\tao_test.pdb
+D:\tao_test\tao_test\bin\Debug\Tao.FreeGlut.dll
+D:\tao_test\tao_test\bin\Debug\Tao.OpenGl.dll
+D:\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.dll
+D:\tao_test\tao_test\bin\Debug\Tao.FreeGlut.xml
+D:\tao_test\tao_test\bin\Debug\Tao.OpenGl.xml
+D:\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.xml
+D:\tao_test\tao_test\obj\Debug\tao_test.csprojResolveAssemblyReference.cache
+D:\tao_test\tao_test\obj\Debug\tao_test.Form1.resources
+D:\tao_test\tao_test\obj\Debug\tao_test.Properties.Resources.resources
+D:\tao_test\tao_test\obj\Debug\tao_test.csproj.GenerateResource.Cache
+D:\tao_test\tao_test\obj\Debug\tao_test.csproj.CoreCompileInputs.cache
+D:\tao_test\tao_test\obj\Debug\tao_test.exe
+D:\tao_test\tao_test\obj\Debug\tao_test.pdb
+D:\tao_test\tao_test\bin\Debug\Tao.DevIl.dll
+D:\tao_test\tao_test\bin\Debug\Tao.DevIl.xml
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\tao_test.exe.config
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\tao_test.exe
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\tao_test.pdb
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.DevIl.dll
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.OpenGl.dll
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.DevIl.xml
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.OpenGl.xml
+C:\Users\Некрасов\Desktop\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.csprojResolveAssemblyReference.cache
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.Form1.resources
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.Properties.Resources.resources
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.csproj.GenerateResource.Cache
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.csproj.CoreCompileInputs.cache
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.exe
+C:\Users\Некрасов\Desktop\tao_test\tao_test\obj\Debug\tao_test.pdb
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\tao_test.exe.config
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\tao_test.exe
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\tao_test.pdb
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\Tao.DevIl.xml
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\Tao.OpenGl.xml
+C:\Users\Артур\Desktop\tao_test\tao_test\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.Form1.resources
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.Properties.Resources.resources
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.csproj.CopyComplete
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.exe
+C:\Users\Артур\Desktop\tao_test\tao_test\obj\Debug\tao_test.pdb

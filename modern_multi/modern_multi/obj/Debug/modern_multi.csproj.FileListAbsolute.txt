@@ -1,0 +1,25 @@
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\bin\Debug\modern_multi.exe.config
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\bin\Debug\modern_multi.exe
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\bin\Debug\modern_multi.pdb
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.Form1.resources
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.exe
+E:\Загрузки из Интернета\решения\modern_multi\modern_multi\obj\Debug\modern_multi.pdb
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\modern_multi.exe.config
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\modern_multi.exe
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\modern_multi.pdb
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.Form1.resources
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.Properties.Resources.resources
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.exe
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.pdb
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\Tao.OpenGl.dll
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Артур\Desktop\modern_multi\modern_multi\bin\Debug\Tao.OpenGl.xml
+C:\Users\Артур\Desktop\modern_multi\modern_multi\obj\Debug\modern_multi.csproj.CopyComplete

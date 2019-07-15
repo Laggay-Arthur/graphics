@@ -1,0 +1,25 @@
+E:\Загрузки из Интернета\решения\Color\Color\bin\Debug\Color.exe.config
+E:\Загрузки из Интернета\решения\Color\Color\bin\Debug\Color.exe
+E:\Загрузки из Интернета\решения\Color\Color\bin\Debug\Color.pdb
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.csprojResolveAssemblyReference.cache
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.Form1.resources
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.Properties.Resources.resources
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.csproj.GenerateResource.cache
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.exe
+E:\Загрузки из Интернета\решения\Color\Color\obj\Debug\Color.pdb
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Color.exe.config
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Color.exe
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Color.pdb
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.csprojResolveAssemblyReference.cache
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.Form1.resources
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.Properties.Resources.resources
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.csproj.GenerateResource.cache
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.exe
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.pdb
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Tao.OpenGl.dll
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Артур\Desktop\Color\Color\bin\Debug\Tao.OpenGl.xml
+C:\Users\Артур\Desktop\Color\Color\obj\Debug\Color.csproj.CopyComplete
